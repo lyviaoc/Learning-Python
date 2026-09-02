@@ -1,0 +1,43 @@
+Programacao Estruturada ou Procedural != Programacao Orientada a Objetos
+
+
+Programacao Estruturada ou Procedural:
+exemplo:
+def soma(a,b):
+    return a + b
+
+Essa abordagem se chama programação estruturada ou procedural. A programação estruturada segue uma linha reta, ou seja, começa da linha zero e executa linha por linha até o final. E nela usamos os conceitos base de lógica: condicionais if, loops como while e for e funções.
+
+Programacao Orientada a Objetos:
+
+Classe → um molde usado para criar objetos.
+
+Objeto → uma entidade criada a partir de uma classe, que possui atributos e métodos.
+
+Instância → um objeto criado a partir de uma classe.
+
+Atributo → uma informação/dado que pertence a um objeto ou a uma classe.
+
+Método → uma função que pertence a uma classe/objeto e representa um comportamento ou ação.
+
+__init__ → Método especial → Inicializa um objeto quando ele é criado.
+
+self → uma referência ao próprio objeto que está sendo utilizado.
+
+Parâmetro → uma variável definida dentro dos parênteses de uma função/método, que recebe um valor quando ele é chamado.
+
+Argumento → o valor que é passado para um parâmetro quando uma função/método é chamado.
+
+class → palavra-chave usada para criar uma classe.
+
+def → palavra-chave usada para definir uma função ou método.
+
+self.atributo → forma de acessar ou criar um atributo pertencente ao objeto atual.
+
+Herança → mecanismo que permite que uma classe herde atributos e métodos de outra classe.
+
+Encapsulamento → princípio de POO que organiza e controla o acesso aos dados e comportamentos de um objeto.
+
+Polimorfismo → permite que objetos de classes diferentes respondam ao mesmo método de maneiras diferentes.
+
+Abstração → princípio de POO que esconde detalhes desnecessários e mostra apenas o que é relevante.

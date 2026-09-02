@@ -1,0 +1,12 @@
+Oque e uma funcao built-in?
+"Built-in" significa que algo já vem disponível no Python, sem precisares de o definir ou importar. Por esta razao as funcoes build-in sao funcoes que ja vem definidas para oque vao servir. Por exemplo a funcao len() que serve para contar os elementos caracteres de algo
+Contrariamente de funcoes como def e lambda que necessariamente e preciso criar/defini-las
+iter()      → transforma um iterável num iterador
+sum()       → soma valores
+min()       → encontra o menor
+max()       → encontra o maior
+len()       → quantidade de elementos
+abs()       → valor absoluto
+round()     → arredonda
+enumerate() → fornece índice + elemento
+zip()       → junta elementos de iteráveis pela mesma posição
